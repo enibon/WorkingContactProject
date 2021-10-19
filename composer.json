@@ -1,0 +1,15 @@
+{
+    "name": "user/working-contact-project",
+    "autoload": {
+        "psr-4": {
+            "User\\WorkingContactProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eni Bondarenko",
+            "email": "86290670+enibon@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
